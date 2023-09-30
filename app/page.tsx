@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <header className="h-16 fixed z-10 w-full">
-        <nav className="h-full flex items-center max-w-7xl mx-auto justify-between text-sm font-medium text-gray-700">
+        <nav className="h-full flex items-center max-w-7xl mx-auto justify-between text-base font-medium text-gray-700 tracking-wide">
           <ul className="flex items-center gap-x-10 text-white font-bold">
             <li className="mr-20">
               <Image src="/logo-white.png" alt="logo" width="84" height="56" />
