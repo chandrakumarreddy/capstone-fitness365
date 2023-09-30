@@ -51,7 +51,7 @@ export default function Home() {
               A fitness movement that is worth
               <br /> breaking a sweat for
             </h3>
-            <button className="bg-white border border-gray-500 text-orange-500 px-5 py-3 text-sm rounded-xl mt-12 mx-auto flex">
+            <button className="bg-white border border-gray-500 text-orange-800 px-5 py-3 text-sm rounded-xl mt-12 mx-auto flex">
               Explore Fitness365 Pass
             </button>
           </div>
