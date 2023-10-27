@@ -6,7 +6,7 @@ import Link from "next/link";
 export default function Login() {
   return (
     <div className="min-h-screen flex flex-col">
-      <header className="w-full h-16 flex items-center bg-gray-600 text-base">
+      <header className="w-full h-16 flex items-center bg-black text-base">
         <nav className="mx-auto h-full w-[1280px] flex items-center justify-between">
           <Link href="/">
             <Image src="/logo-white.png" alt="logo" width="84" height="56" />
